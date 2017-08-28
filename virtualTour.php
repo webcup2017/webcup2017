@@ -48,26 +48,27 @@
 
 .btn{
 	float: left;
-	background-color: transparent;
+	/*background-color: transparent*/;
 	border: 2px solid blue;
 }
 
-#prev, #next{
-	float: none;
+#home, #prev, #next {
+	float: right;
 }
 
 </style>
 </head>
 <body>
-<a href="index.php#middle" class="btn btn-primary" role="button">Return</a>
+
+<a id="next" href="virtualTour2.php" class="btn btn-success"><span class="glyphicons glyphicons-circle-arrow-right"></span>Next</a>
+<a href="index.php#middle" class="btn btn-primary" role="button" id="home">Home</a>
 
 <div id="page" style="padding-top: 10%">
 		
 	<img src="img/shark2.jpg" class="panorama" width="2642" height="425" alt="shark" />
 <br>
 	
-	<a id="next" href="virtualTour2.php" class="btn btn-primary">Next</a>
-
+	
 
 	
 </div>

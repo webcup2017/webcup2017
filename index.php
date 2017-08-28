@@ -218,7 +218,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="bs-example">
-						<div id="myCarousel" class="carousel slide" data-ride="carousel">
+						<div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 							<!-- Carousel indicators -->
 							<ol class="carousel-indicators">
 								<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
