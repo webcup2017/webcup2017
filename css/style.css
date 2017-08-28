@@ -1,0 +1,165 @@
+body {
+    width: 100%;
+    height: 100%;
+
+
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+section{
+    width: 100%
+}
+
+
+.navbar {
+    padding: 20px 300px;
+    -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    transition: background .5s ease-in-out,padding .5s ease-in-out;
+    background-color: transparent;
+    color: white;
+    font-family: 'Open Sans';
+    font-size:20px;
+    text-align: center;
+}
+
+.top-nav-collapse {
+    padding: 0;
+}
+
+.top{
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: transparent;
+}
+.middle{
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background-image: url("../assets/coral.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#video-background {
+    /*  making the video fullscreen  */
+    position: fixed;
+    right: 0; 
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    width: auto; 
+    height: auto;
+    z-index: -100;
+}
+
+.aboutTitle{
+    font-size: 30px;
+    color: white;
+    font-family: 'Open Sans';
+}
+.aboutText{
+    font-size: 20px;
+    text-align: justify;
+    color: white;
+    font-family: 'Open Sans';
+}
+
+.navbar-color{
+    background-color: #0FBCCD;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border-radius: 5px;
+    color: white;
+    padding: 10px 48px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 25px;
+    margin: 10px 100px;
+    cursor: pointer;
+    
+    float: left;
+
+}
+
+.button4 {
+    background-color: transparent; 
+    color: white; 
+    border: 2px solid #33ccff;
+}
+
+
+.button1 {
+    background-color: transparent; /* Green */
+    border-radius: 5px;
+    color: white;
+    padding: 0.05px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 25px;
+    margin: 0px 20px;
+    cursor: pointer;
+    
+    float: left;
+
+}
+/*#pfImage{
+    padding: 30px;
+    position: relative;
+    text-align: center;
+    left: 5%;
+    top: 10%;
+    width: 100%;
+    height: 500px;
+    }*/
+
+    figure {
+        /*float: left;*/
+        height: 12em;
+        margin: 1.5em;
+        width: 24em;
+        -webkit-transform: perspective(500);
+        -webkit-transform-style: preserve-3d;
+        -webkit-transition: .5s;
+        transform: perspective(500);
+        transform-style: preserve-3d;
+        transition: .5s;
+    }
+    figure:hover {
+        -webkit-transform: perspective(500) rotateX(90deg) translateY(-3em) translateZ(3em);
+        transform: perspective(500) rotateX(90deg) translateY(-3em) translateZ(3em);
+
+    }
+    figure:hover img {
+        box-shadow: none;
+    }
+    figcaption {
+        background-color: #222;
+        color: #fff;
+        padding: 1.5em;
+        -webkit-transform: rotateX(-90deg);
+        -webkit-transform-origin: 100% 0;
+        -webkit-transition: .5s;
+        opacity: 0.85;
+    }
+    figure img {
+        background-color: #222;
+        box-shadow: 0 20px 15px -10px hsla(0,0%,0%,.25);
+        display: block;
+        height: 100%;
+        border: 5px solid white;
+        -webkit-transition: .5s;
+    }
+    .imgWhite{
+        background-color: white;
+    }
+    figure:hover figcaption {
+        box-shadow: 0 20px 15px -10px hsla(0,0%,0%,.25);
+    }

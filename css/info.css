@@ -1,0 +1,27 @@
+.info{
+	background-image: url(assets/turtle.jpg);
+
+}
+
+.jumbotron{
+	height:400px;
+	width:100%;
+	text-align: left;
+	text-shadow: 5px;
+	padding-left: 100px;
+	font-family: 'Pattaya';
+
+
+}
+
+.spacor{
+	padding-bottom: 80px;
+}
+
+div .jumbotron h1{
+	color:white;
+}
+
+div .jumbotron p{
+	color:white;
+}
