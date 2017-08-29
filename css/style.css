@@ -100,7 +100,7 @@ div.bg{
 
 
 .buttonvt {
-    background-color: green; /* Green */
+    background-color: lime;
     border-radius: 5px;
     color: white;
     padding: 0.05px 60px;
@@ -108,9 +108,8 @@ div.bg{
     text-decoration: none;
     display: flex;
     font-size: 25px;
-    margin: 0px 20px;
+    margin: 0px 145px;
     cursor: pointer;
-    
     float: left;
 
 }
