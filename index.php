@@ -88,7 +88,7 @@
 
 				
 				<div class="col-md-6">
-					<p class="aboutText" style="background-color: black; opacity: 0.5; padding:20px; border-radius: 5px;">AquaMagic was founded in 1997 and has since been collaborating with Emeraude Beach Attitude situated at Belle Mare on the beautiful east coast of Mauritius.With 20 years AquaMagic is among the pioneer of aquatic animals in Mauritius.AquaMagic really enjoys the energy and excitement of aquatic animals, those enhancing their range and capability through continuing moving to professional level certification. The main objective of AquaMagic is to make sea lovers discover the marine beauty of Mauritius indoor under safety guidance.
+					<p class="aboutText" style="background-color: black; opacity: 0.5; padding:20px; border-radius: 5px;">This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.
 					</p>
 				</div>
 
@@ -404,7 +404,7 @@
 	      </div> 
 
 	      <div class="col-md-6" style="padding-top: 40px;">
-	      	<img src="img/dol.jpg">
+	      	<img src="img/image.jpg">
 	      </div>
 	      </div>
 	      
