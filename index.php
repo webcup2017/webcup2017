@@ -10,10 +10,7 @@
 	<script src="js/jquery.easing.min.js"></script>
 	<link rel="icon" href="assets/logo2.png" type="image/gif" sizes="32x32">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-<<<<<<< HEAD
-	
-=======
->>>>>>> 81091b5fc5c89cd889d44def0627377f1fef4034
+
 	<link rel="stylesheet" type="text/css" href="css/info.css">
 	<link href='https://fonts.googleapis.com/css?family=Aladin' rel='stylesheet'>
 	<link rel="stylesheet" type="text/css" href="css/carousel.css">
@@ -353,7 +350,7 @@
 
 						</section>
 
-<<<<<<< HEAD
+
 	<section class="booking">
 	
 	<form action="">
@@ -404,8 +401,6 @@
 							
 	</section>
 
-=======
->>>>>>> 81091b5fc5c89cd889d44def0627377f1fef4034
 
 						<footer class="footer">
 							<!-- Container (Contact Section) -->
