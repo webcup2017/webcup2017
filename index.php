@@ -82,7 +82,7 @@
 				<div class="col-md-3">
 					<div class="ima">
 
-						<img src="assets/logo2.png" alt="Logo" width="200" height="200">
+						<img src="assets/logo2.png" alt="Logo" width="200" height="200" class="bg_logo">
 					</div>
 				</div>
 
@@ -97,7 +97,7 @@
 					
 					<div class="ima">
 
-						<img src="assets/logo2.png" alt="Logo" width="200" height="200">
+						<img src="assets/logo2.png" alt="Logo" width="200" height="200" class="bg_logo">
 					</div>
 				</div>
 			</div>
@@ -113,7 +113,7 @@
 
 
 	<section class="middle" id="middle">
-		<div class="container-fluid">
+		<div class="container-fluid bg">
 			<div class="row">
 				
 				
@@ -319,7 +319,7 @@
 								<br/>
 								<div class="row">
 									<div class="col-md-4"></div>
-									<div class="col-md-4"><a class="button1 button4 " href="virtualTour.php" style="color:white ;  font-family: 'Open Sans'; font-weight: bold; text-decoration:none;  " >Virtual Tour</a></div>
+									<div class="col-md-4"><a class="buttonvt button4 " href="virtualTour.php" style="color:white ;  font-family: 'Open Sans'; font-weight: bold; text-decoration:none;margin-top: -15%;" >Virtual Tour</a></div>
 									<div class="col-md-4"></div>
 								</div>
 						
@@ -332,7 +332,7 @@
 
 						<section class="info">
 							
-							<div class="jumbotron" style="background-image: url(assets/funnyteeth.jpg);">
+							<div class="jumbotron" style="background-image: url(assets/funnyteeth1.jpg);">
 
 
 								<table style="font-size:20px">

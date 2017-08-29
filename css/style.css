@@ -36,11 +36,15 @@ section{
     text-align: center;
     background: transparent;
 }
-.middle{
+div.middle{
     height: 905px;
     padding-top: 150px;
     text-align: center;
-    background-image: url("../assets/coral.jpg");
+    
+}
+
+div.bg{
+	background-image: url("../assets/coral.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -95,8 +99,8 @@ section{
 }
 
 
-.button1 {
-    background-color: transparent; /* Green */
+.buttonvt {
+    background-color: green; /* Green */
     border-radius: 5px;
     color: white;
     padding: 0.05px 60px;
@@ -182,3 +186,34 @@ section{
     text-align: center;
 }
 
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.55);
+    width: 100%;
+    margin-left: -20%;
+	margin-bottom: -2%;
+}
+
+.carousel-indicators{
+	margin-bottom: -1%;
+}
+
+.bg_logo{
+    background-color: rgba(245, 245, 220, 0.59);
+    border-radius: 100%;
+    -webkit-transition-duration: 0.8s;
+    -moz-transition-duration: 0.8s;
+    -o-transition-duration: 0.8s;
+    transition-duration: 0.8s;   
+    -webkit-transition-property: -webkit-transform;
+    -moz-transition-property: -moz-transform;
+    -o-transition-property: -o-transform;
+    transition-property: transform;    
+    overflow:hidden;
+}
+.bg_logo:hover  
+{
+    -webkit-transform:rotate(360deg);
+    -moz-transform:rotate(360deg);
+    -o-transform:rotate(360deg);
+    transform:rotate(360deg);         
+} 
