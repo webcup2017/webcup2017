@@ -10,8 +10,9 @@
 	<script src="js/jquery.easing.min.js"></script>
 	<link rel="icon" href="assets/logo2.png" type="image/gif" sizes="32x32">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-
+	<link rel="stylesheet" type="text/css" href="css/fish.css">
 	<link rel="stylesheet" type="text/css" href="css/info.css">
+	<link rel="stylesheet" type="text/css" href="css/booking.css">
 	<link href='https://fonts.googleapis.com/css?family=Aladin' rel='stylesheet'>
 	<link rel="stylesheet" type="text/css" href="css/carousel.css">
 	<script type="text/javascript" src="js/carousel.js"></script>
@@ -399,10 +400,10 @@
 	          <textarea name="comments"  class="floatLabel" id="comments"></textarea>
 	          
 	          </div>
-	            <button type="submit" value="Submit" class="col-1-4">Submit</button>
+	            <button type="submit" value="Submit" class="btn btn-lg btn-warning col-1-4 button1">Submit</button>
 	      </div> 
 
-	      <div class="col-md-6">
+	      <div class="col-md-6" style="padding-top: 40px;">
 	      	<img src="img/dol.jpg">
 	      </div>
 	      </div>
@@ -413,112 +414,62 @@
 							
 	</section>
 
+	<section class="fishsection">
+	<div class="container">
+
+
+		<header>
+	<h1 class="fishh1">Contact us</h1>
+</header>
+
+<div id="formfish" class="formfish">
+
+<div class="fish" id="fish"></div>
+<div class="fish" id="fish2"></div>
+
+<form id="waterform" method="post">
+
+<div class="formgroup" id="name-form">
+    <label for="name">Your name*</label>
+    <input type="text" id="name" name="name" />
+</div>
+
+<div class="formgroup" id="email-form">
+    <label for="email">Your e-mail*</label>
+    <input type="email" id="email" name="email" />
+</div>
+
+<div class="formgroup" id="message-form">
+    <label for="message">Your message</label>
+    <textarea id="message" name="message"></textarea>
+</div>
+
+	<input type="submit" value="Send your message!" />
+</form>
+</div>
+	
+
+	</div>
+		
+	</section>
+
 
 						<footer class="footer">
 							<!-- Container (Contact Section) -->
 							<div id="contact" class="container">
-								<h3 class="text-center">Contact</h3>
+								<h3 class="fishh1">Map</h3>
 								<div class="row">
-									<div class="col-md-4">
+									<div class="col-md-12">
 										<div id="googleMap"></div>
 									</div>
-									<div class="col-md-8">
-										<div class="row">
-											<form class="well form-horizontal" action="index.php" method="post"  id="contact_form">
-												<fieldset>
-
-													<!-- Form Name -->
-
-
-													<!-- Text input-->
-
-													<div class="form-group">
-														<label class="col-md-4 control-label">First Name</label>  
-														<div class="col-md-4 inputGroupContainer">
-															<div class="input-group">
-																<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-																<input  name="first_name" placeholder="First Name" class="form-control"  type="text">
-															</div>
-														</div>
-													</div>
-
-													<!-- Text input-->
-
-													<div class="form-group">
-														<label class="col-md-4 control-label">Last Name</label> 
-														<div class="col-md-4 inputGroupContainer">
-															<div class="input-group">
-																<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-																<input name="last_name" placeholder="Last Name" class="form-control"  type="text">
-															</div>
-														</div>
-													</div>
-
-													<!-- Text input-->
-													<div class="form-group">
-														<label class="col-md-4 control-label">E-Mail</label>  
-														<div class="col-md-4 inputGroupContainer">
-															<div class="input-group">
-																<span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
-																<input name="email" placeholder="E-Mail Address" class="form-control"  type="text">
-															</div>
-														</div>
-													</div>
-
-
-													<!-- Text input-->
-
-													<div class="form-group">
-														<label class="col-md-4 control-label">Phone</label>  
-														<div class="col-md-4 inputGroupContainer">
-															<div class="input-group">
-																<span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
-																<input name="phone" placeholder="(+230)" class="form-control" type="text">
-															</div>
-														</div>
-													</div>
-
-													<!-- Text input-->
-													<label class="col-md-4 control-label">Comment</label>  
-													<div class="col-md-6 inputGroupContainer">
-														<div class="input-group">
-															<span class="input-group-addon"><i class="glyphicon glyphicon-comment"></i></span>
-															<textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea>
-														</div>
-													</div>
-
-
-
-
-
-
-													<!-- Text input-->
-
-
-
-													<!-- Success message -->
-													<div class="alert alert-success" role="alert" id="success_message">Success <i class="glyphicon glyphicon-thumbs-up"></i> Thanks for contacting us, we will get back to you shortly.</div>
-
-													<!-- Button -->
-													<div class="form-group">
-														<label class="col-md-4 control-label"></label>
-														<div class="col-md-4">
-															<button type="submit" class="btn btn-warning" >Send <span class="glyphicon glyphicon-send"></span></button>
-															<button type="reset" class="btn btn-warning" >Reset <span class="glyphicon glyphicon-remove"></span></button>
-														</div>
-													</div>
-
-												</fieldset>
-											</form>
-										</div>
-									</div>
+								
 									<br>
 									<br>
 									<br><br>
 									<div class="row">
 										<div class="col-md-3"></div>
 										<div class="col-md-8"><section id="links">
-											<p style="font-size: 30px;font-weight: bold; padding-left: 140px;">Find Us On...</p><br>
+											<p style="font-size: 30px;font-weight: bold; padding-left: 100px;">Find Us On...</p><br>
 
 
 											<!-- Add font awesome icons -->
