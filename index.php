@@ -10,7 +10,10 @@
 	<script src="js/jquery.easing.min.js"></script>
 	<link rel="icon" href="assets/logo2.png" type="image/gif" sizes="32x32">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<link rel="stylesheet" type="text/css" href="css/booking.css">
+<<<<<<< HEAD
+	
+=======
+>>>>>>> 81091b5fc5c89cd889d44def0627377f1fef4034
 	<link rel="stylesheet" type="text/css" href="css/info.css">
 	<link href='https://fonts.googleapis.com/css?family=Aladin' rel='stylesheet'>
 	<link rel="stylesheet" type="text/css" href="css/carousel.css">
@@ -238,13 +241,10 @@
 
 	</section>
 
-	
+	<br>
 
 	<section class="middle1" id="middle1">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="bs-example">
+			
 						<div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 							<!-- Carousel indicators -->
 							<ol class="carousel-indicators">
@@ -315,8 +315,7 @@
 												</a>
 											</div>
 										</div>
-									</div>
-								</div>
+								
 
 								<br/>
 								<div class="row">
@@ -324,7 +323,7 @@
 									<div class="col-md-4"><a class="button1 button4 " href="virtualTour.php" style="color:white ;  font-family: 'Open Sans'; font-weight: bold; text-decoration:none;  " >Virtual Tour</a></div>
 									<div class="col-md-4"></div>
 								</div>
-							</div>
+						
 						</section>
 
 						
@@ -334,7 +333,7 @@
 
 						<section class="info">
 							
-							<div class="jumbotron" style="background-image: url(assets/jellyfish5.jpg);">
+							<div class="jumbotron" style="background-image: url(assets/WolfShark1.jpg);">
 								<h1 style="color: white">Opening Hours & Entrance Fees</h1>      
 								<p style="color: white">
 									Monday-Friday:9hrs-17hrs
@@ -354,20 +353,22 @@
 
 						</section>
 
+<<<<<<< HEAD
 	<section class="booking">
 	
 	<form action="">
 	  <!--  General -->
 	  <div class="form-group">
 	  <div class="row">
-	  <div class="col-md-4"></div>
-	    <div class="col-md-4">
-	    <h2 class="heading">Booking</h2>
+	  <div class="col-md-3"></div>
+	    <div class="col-md-6">
+	    <h2 class="bookingheader">Booking</h2>
 	    </div>
-	    <div class="col-md-4"></div>
+	    <div class="col-md-3"></div>
 	    </div>
 	    <div class="row">
-	<div class="col-md-4">
+	   
+	<div class="col-md-6">
 	    <div class="controls">
 	    <label for="name">Name</label><br>
 	      <input type="text" id="name" class="floatLabel" name="name">
@@ -390,8 +391,9 @@
 	          
 	          </div>
 	            <button type="submit" value="Submit" class="col-1-4">Submit</button>
-	      </div>  
-	      <div class="col-md-8">
+	      </div> 
+
+	      <div class="col-md-6">
 	      	<img src="img/dol.jpg">
 	      </div>
 	      </div>
@@ -402,6 +404,8 @@
 							
 	</section>
 
+=======
+>>>>>>> 81091b5fc5c89cd889d44def0627377f1fef4034
 
 						<footer class="footer">
 							<!-- Container (Contact Section) -->
@@ -541,7 +545,6 @@
 					<script src='http://cdnjs.cloudflare.com/ajax/libs/bootstrap-validator/0.4.5/js/bootstrapvalidator.min.js'></script>
 
 					<script src="js/contact_form.js"></script>
-					<script src="js/booking.js"></script>
 
 
 					<video autoplay loop id="video-background" muted>
