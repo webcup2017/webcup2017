@@ -332,7 +332,7 @@
 
 						<section class="info">
 							
-							<div class="jumbotron" style="background-image: url(assets/funnyteeth.jpg);">
+							<div class="jumbotron" style="background-image: url(assets/funnyteeth1.jpg);">
 
 
 								<table style="font-size:20px">
