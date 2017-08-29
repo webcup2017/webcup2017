@@ -99,8 +99,8 @@ div.bg{
 }
 
 
-.button1 {
-    background-color: transparent; /* Green */
+.buttonvt {
+    background-color: green; /* Green */
     border-radius: 5px;
     color: white;
     padding: 0.05px 60px;

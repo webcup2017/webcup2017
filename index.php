@@ -319,7 +319,7 @@
 								<br/>
 								<div class="row">
 									<div class="col-md-4"></div>
-									<div class="col-md-4"><a class="button1 button4 " href="virtualTour.php" style="color:white ;  font-family: 'Open Sans'; font-weight: bold; text-decoration:none;margin-top: -15%;" >Virtual Tour</a></div>
+									<div class="col-md-4"><a class="buttonvt button4 " href="virtualTour.php" style="color:white ;  font-family: 'Open Sans'; font-weight: bold; text-decoration:none;margin-top: -15%;" >Virtual Tour</a></div>
 									<div class="col-md-4"></div>
 								</div>
 						
