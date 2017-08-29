@@ -191,7 +191,7 @@
 					<figure>
 						<img class="imgWhite" src="assets/images/freshwaterangel.png" alt="Portfolio Item">
 						<figcaption>
-							<h3 style="color:white;">Freshwater Angelfish</h3>
+							<h3 style="color:white;">FW Angelfish</h3>
 							<p>Ver popular due to its shape.</p>
 						</figcaption>
 					</figure>
@@ -211,8 +211,8 @@
 					<figure>
 						<img src="assets/images/hammerhead.png" alt="Portfolio Item">
 						<figcaption>
-							<h3 style="color:white;">Hammerhead Shark</h3>
-							<p>Named for the unusual and distinctive structure of their heads.</p>
+							<h3 style="color:white;">H.Shark</h3>
+							<p>Named for the structure of their heads.</p>
 						</figcaption>
 					</figure>
 				</div>
@@ -229,7 +229,7 @@
 					<figure>
 						<img class="imgWhite" src="assets/images/transoctopus.png" alt="Portfolio Item">
 						<figcaption>
-							<h3 style="color:white;">Transparent Octopus</h3>
+							<h3 style="color:white;">T. Octopus</h3>
 							<p>???</p>
 						</figcaption>
 					</figure>
