@@ -242,6 +242,7 @@
 	<br>
 
 	<section class="middle1" id="middle1">
+	<div class="container">
 			
 						<div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 							<!-- Carousel indicators -->
@@ -313,7 +314,7 @@
 												</a>
 											</div>
 										</div>
-								
+								</div>
 
 								<br/>
 								<div class="row">
