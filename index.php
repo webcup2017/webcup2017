@@ -97,7 +97,7 @@
 					
 					<div class="ima">
 
-						<img src="assets/logo2.png" alt="Logo" width="200" height="200" class="bg_logo">
+						<img src="assets/logo2.png" alt="Logo" width="200" height="200" class="bg_logo flipped">
 					</div>
 				</div>
 			</div>
