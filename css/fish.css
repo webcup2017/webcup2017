@@ -11,8 +11,9 @@
 	font-family: 'Raleway', sans-serif;
 	margin: 0 auto;
 	width: 500px;
-	color: #00bfff;
-	text-align: center;
+    color: rgba(0, 88, 255, 0.75);
+	font-weight: bolder;
+    text-align: center;
 }
 
 /* Animation webkit */
