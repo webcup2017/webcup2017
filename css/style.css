@@ -175,10 +175,7 @@ section{
     }
 
 
-.locationheader{
+.bookingheader{
     text-align: center;
-    font-size: larger;
-    color: green;
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
+
