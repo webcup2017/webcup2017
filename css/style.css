@@ -186,3 +186,8 @@ div.bg{
     text-align: center;
 }
 
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.55);
+    width: 100%;
+    margin-left: -20%;
+}
