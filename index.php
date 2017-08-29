@@ -113,7 +113,7 @@
 
 
 	<section class="middle" id="middle">
-		<div class="container-fluid">
+		<div class="container-fluid bg">
 			<div class="row">
 				
 				
@@ -242,6 +242,7 @@
 	<br>
 
 	<section class="middle1" id="middle1">
+	<div class="container">
 			
 						<div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 							<!-- Carousel indicators -->
@@ -313,12 +314,12 @@
 												</a>
 											</div>
 										</div>
-								
+								</div>
 
 								<br/>
 								<div class="row">
 									<div class="col-md-4"></div>
-									<div class="col-md-4"><a class="button1 button4 " href="virtualTour.php" style="color:white ;  font-family: 'Open Sans'; font-weight: bold; text-decoration:none;  " >Virtual Tour</a></div>
+									<div class="col-md-4"><a class="button1 button4 " href="virtualTour.php" style="color:white ;  font-family: 'Open Sans'; font-weight: bold; text-decoration:none;margin-top: -15%;" >Virtual Tour</a></div>
 									<div class="col-md-4"></div>
 								</div>
 						
