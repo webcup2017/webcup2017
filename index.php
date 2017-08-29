@@ -418,7 +418,7 @@
 	<div class="container">
 
 
-		<header>
+		<header class="bground">
 	<h1 class="fishh1">Contact us</h1>
 </header>
 

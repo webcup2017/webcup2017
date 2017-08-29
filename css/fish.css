@@ -58,7 +58,6 @@
 
 header{
 	height: 160px;
-	background: url('http://www.geertjanhendriks.nl/codepen/form/golf.png') repeat-x bottom;
 }
 
 #formfish{
@@ -76,6 +75,10 @@ header{
 	position: relative;
 	
 	
+}
+
+.bground{
+	background: url('http://www.geertjanhendriks.nl/codepen/form/golf.png') repeat-x bottom;
 }
 label, input, textarea{
 	display: block;	
