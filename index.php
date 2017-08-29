@@ -330,19 +330,31 @@
 
 						<section class="info">
 							
-							<div class="jumbotron" style="background-image: url(assets/WolfShark1.jpg);">
-								<h1 style="color: white">Opening Hours & Entrance Fees</h1>      
-								<p style="color: white">
-									Monday-Friday:9hrs-17hrs
-									<br>
-									Saturday-Sunday:9hrs-15hrs
-									<br>
-									Public Holidays:Closed<br><br>
+							<div class="jumbotron" style="background-image: url(assets/funnyteeth.jpg);">
 
-									Adult(As from 18 years old):Rs-200<br>
-									Children(Up to 12 years old):Rs-100<br>
-									Teenagers(As from 13 years old):Rs-150
-								</p>
+
+								<table style="font-size:20px">
+								  <tr style="font-size:50px" >
+								    <th style="color: white" colspan="2" >Opening Hours & Entrance Fees</th>
+								   
+								  </tr>
+								  <tr>
+								    <td style="color: white" >Monday-Friday:9hrs-17hrs</td>
+								    <td style="color: white" >Adult(As from 18 years old):Rs-200</td> 
+								
+								  </tr>
+								  <tr>
+								    <td style="color: white" >Saturday-Sunday:9hrs-15hrs</td>
+								    <td style="color: white" >Children(Up to 12 years old):Rs-100</td> 
+								   
+								  </tr>
+
+								  <tr>
+								    <td style="color: white" >Public Holidays:Closed</td>
+								    <td style="color: white" >Teenagers(As from 13 years old):Rs-150</td> 
+								
+								  </tr>
+								</table>
 
 							</div>
 
