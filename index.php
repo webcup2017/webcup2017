@@ -10,7 +10,10 @@
 	<script src="js/jquery.easing.min.js"></script>
 	<link rel="icon" href="assets/logo2.png" type="image/gif" sizes="32x32">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
+<<<<<<< HEAD
 	
+=======
+>>>>>>> 81091b5fc5c89cd889d44def0627377f1fef4034
 	<link rel="stylesheet" type="text/css" href="css/info.css">
 	<link href='https://fonts.googleapis.com/css?family=Aladin' rel='stylesheet'>
 	<link rel="stylesheet" type="text/css" href="css/carousel.css">
@@ -118,28 +121,28 @@
 				
 				<div class="col-md-4" style=" color:white; text-align: center">
 					<figure>
-						<img src="assets/images/fighter.jpg" alt="Portfolio Item">
+						<img src="assets/images/fighter.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">Fighter</h3>
-							<p>Life Span: 2 years.</p>
+							<p>Recognized by its bright colors.</p>
 						</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-4" style=" color:white">
 					<figure>
-						<img src="assets/images/angelfish.jpg" alt="Portfolio Item">
+						<img src="assets/images/angel.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">Angelfish</h3>
-							<p>Life Span: 4 years.</p>
+							<p>Recognized by its strips.</p>
 						</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-4" style="color:white">
 					<figure>
-						<img src="assets/images/ashark.jpg" alt="Portfolio Item">
+						<img src="assets/images/shark.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">Shark</h3>
-							<p>Life Span: 10 years.</p>
+							<p>Easily recognized.</p>
 						</figcaption>
 					</figure>
 				</div>
@@ -147,10 +150,10 @@
 			<div class="row">
 				<div class="col-md-4" style=" color:white">
 					<figure>
-						<img class="imgWhite" src="assets/images/goldfish.jpg" alt="Portfolio Item">
+						<img class="imgWhite" src="assets/images/goldfish.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">Gold Fish</h3>
-							<p>Life Span: 5 years.</p>
+							<p>The classic one.</p>
 						</figcaption>
 					</figure>
 				</div>
@@ -160,19 +163,19 @@
 				
 				<div class="col-md-4" style=" color:white">
 					<figure>
-						<img src="assets/images/koi.jpg" alt="Portfolio Item">
+						<img src="assets/images/koi.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">Koi</h3>
-							<p>Life Span: 20 years.</p>
+							<p>Likes to stay in group.</p>
 						</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-4" style=" color:white">
 					<figure>
-						<img class="imgWhite" src="assets/images/octopus.jpg" alt="Portfolio Item">
+						<img class="imgWhite" src="assets/images/octopus.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">Octopus</h3>
-							<p>Life Span: 20 years.</p>
+							<p>Recognized by its tentacles.</p>
 						</figcaption>
 					</figure>
 				</div>
@@ -180,45 +183,68 @@
 			<div class="row">
 				<div class="col-md-4" style=" color:white">
 					<figure>
-						<img src="assets/images/whiteshark.jpg" alt="Portfolio Item">
+						<img src="assets/images/whiteshark.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">White Shark</h3>
-							<p>Life Span: 15 years.</p>
+							<p>Can be found in the coastal surface waters.</p>
 						</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-4" style=" color:white">
 					<figure>
-						<img class="imgWhite" src="assets/images/angelFresh.jpg" alt="Portfolio Item">
+						<img class="imgWhite" src="assets/images/freshwaterangel.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">Freshwater Angelfish</h3>
-							<p>Life Span: 3 years.</p>
+							<p>Ver popular due to its shape.</p>
 						</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-4" style=" color:white">
 					<figure>
-						<img class="imgWhite" src="assets/images/balaShark.jpg" alt="Portfolio Item">
+						<img class="imgWhite" src="assets/images/balashark.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">Bala Shark</h3>
-							<p>Life Span: 7 years.</p>
+							<p>This species is not a true shark.</p>
 						</figcaption>
 					</figure>
 				</div>
 			</div><br>
-		</div>
-
-
+			<div class="row">
+				<div class="col-md-4" style=" color:white">
+					<figure>
+						<img src="assets/images/hammerhead.png" alt="Portfolio Item">
+						<figcaption>
+							<h3 style="color:white;">Hammerhead Shark</h3>
+							<p>Named for the unusual and distinctive structure of their heads.</p>
+						</figcaption>
+					</figure>
+				</div>
+				<div class="col-md-4" style=" color:white">
+					<figure>
+						<img class="imgWhite" src="assets/images/relicfish.png" alt="Portfolio Item">
+						<figcaption>
+							<h3 style="color:white;">Relic Fish</h3>
+							<p>What is it?</p>
+						</figcaption>
+					</figure>
+				</div>
+				<div class="col-md-4" style=" color:white">
+					<figure>
+						<img class="imgWhite" src="assets/images/transoctopus.png" alt="Portfolio Item">
+						<figcaption>
+							<h3 style="color:white;">Transparent Octopus</h3>
+							<p>???</p>
+						</figcaption>
+					</figure>
+				</div>
+			</div><br>
 
 	</section>
 
-	
+	<br>
 
 	<section class="middle1" id="middle1">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="bs-example">
+			
 						<div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 							<!-- Carousel indicators -->
 							<ol class="carousel-indicators">
@@ -289,8 +315,7 @@
 												</a>
 											</div>
 										</div>
-									</div>
-								</div>
+								
 
 								<br/>
 								<div class="row">
@@ -298,7 +323,7 @@
 									<div class="col-md-4"><a class="button1 button4 " href="virtualTour.php" style="color:white ;  font-family: 'Open Sans'; font-weight: bold; text-decoration:none;  " >Virtual Tour</a></div>
 									<div class="col-md-4"></div>
 								</div>
-							</div>
+						
 						</section>
 
 						
@@ -308,7 +333,7 @@
 
 						<section class="info">
 							
-							<div class="jumbotron" style="background-image: url(assets/jellyfish5.jpg);">
+							<div class="jumbotron" style="background-image: url(assets/WolfShark1.jpg);">
 								<h1 style="color: white">Opening Hours & Entrance Fees</h1>      
 								<p style="color: white">
 									Monday-Friday:9hrs-17hrs
@@ -328,6 +353,7 @@
 
 						</section>
 
+<<<<<<< HEAD
 	<section class="booking">
 	
 	<form action="">
@@ -378,6 +404,8 @@
 							
 	</section>
 
+=======
+>>>>>>> 81091b5fc5c89cd889d44def0627377f1fef4034
 
 						<footer class="footer">
 							<!-- Container (Contact Section) -->
@@ -517,7 +545,6 @@
 					<script src='http://cdnjs.cloudflare.com/ajax/libs/bootstrap-validator/0.4.5/js/bootstrapvalidator.min.js'></script>
 
 					<script src="js/contact_form.js"></script>
-					<script src="js/booking.js"></script>
 
 
 					<video autoplay loop id="video-background" muted>
