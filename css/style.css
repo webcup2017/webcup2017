@@ -173,12 +173,3 @@ section{
     figure:hover figcaption {
         box-shadow: 0 20px 15px -10px hsla(0,0%,0%,.25);
     }
-
-
-.locationheader{
-    text-align: center;
-    font-size: larger;
-    color: green;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}

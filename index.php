@@ -19,7 +19,6 @@
 	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="css/contact.css">
-	<link rel="stylesheet" href="css/fishy.css">
 	<script src="http://s.codepen.io/assets/libs/modernizr.js" type="text/javascript"></script>
 
 	<link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
@@ -409,36 +408,99 @@
 							<div id="contact" class="container">
 								<h3 class="text-center">Contact</h3>
 								<div class="row">
-									<div id="form">
+									<div class="col-md-4">
+										<div id="googleMap"></div>
+									</div>
+									<div class="col-md-8">
+										<div class="row">
+											<form class="well form-horizontal" action="index.php" method="post"  id="contact_form">
+												<fieldset>
 
-<div class="fish" id="fish"></div>
-<div class="fish" id="fish2"></div>
+													<!-- Form Name -->
 
-<form id="waterform" method="post">
 
-<div class="formgroup" id="name-form">
-    <label for="name">Your name*</label>
-    <input type="text" id="name" name="name" required="name" autofocus />
-</div>
+													<!-- Text input-->
 
-<div class="formgroup" id="email-form">
-    <label for="email">Your e-mail*</label>
-    <input type="email" id="email" name="email" required="email" autofocus />
-</div>
+													<div class="form-group">
+														<label class="col-md-4 control-label">First Name</label>  
+														<div class="col-md-4 inputGroupContainer">
+															<div class="input-group">
+																<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+																<input  name="first_name" placeholder="First Name" class="form-control"  type="text">
+															</div>
+														</div>
+													</div>
 
-<div class="formgroup" id="message-form">
-    <label for="message">Your message</label>
-    <textarea id="message" name="message" required="message" autofocus></textarea>
-</div>
+													<!-- Text input-->
 
-	<input type="submit" value="Send your message!" />
-</form>
-								</div>
-								<div class="row">
-									<div class="locationheader">Our Location</div>
-									<div id="googleMap"></div>							
-								</div>
-								<div class="row">
+													<div class="form-group">
+														<label class="col-md-4 control-label">Last Name</label> 
+														<div class="col-md-4 inputGroupContainer">
+															<div class="input-group">
+																<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+																<input name="last_name" placeholder="Last Name" class="form-control"  type="text">
+															</div>
+														</div>
+													</div>
+
+													<!-- Text input-->
+													<div class="form-group">
+														<label class="col-md-4 control-label">E-Mail</label>  
+														<div class="col-md-4 inputGroupContainer">
+															<div class="input-group">
+																<span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+																<input name="email" placeholder="E-Mail Address" class="form-control"  type="text">
+															</div>
+														</div>
+													</div>
+
+
+													<!-- Text input-->
+
+													<div class="form-group">
+														<label class="col-md-4 control-label">Phone</label>  
+														<div class="col-md-4 inputGroupContainer">
+															<div class="input-group">
+																<span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
+																<input name="phone" placeholder="(+230)" class="form-control" type="text">
+															</div>
+														</div>
+													</div>
+
+													<!-- Text input-->
+													<label class="col-md-4 control-label">Comment</label>  
+													<div class="col-md-6 inputGroupContainer">
+														<div class="input-group">
+															<span class="input-group-addon"><i class="glyphicon glyphicon-comment"></i></span>
+															<textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea>
+														</div>
+													</div>
+
+
+
+
+
+
+													<!-- Text input-->
+
+
+
+													<!-- Success message -->
+													<div class="alert alert-success" role="alert" id="success_message">Success <i class="glyphicon glyphicon-thumbs-up"></i> Thanks for contacting us, we will get back to you shortly.</div>
+
+													<!-- Button -->
+													<div class="form-group">
+														<label class="col-md-4 control-label"></label>
+														<div class="col-md-4">
+															<button type="submit" class="btn btn-warning" >Send <span class="glyphicon glyphicon-send"></span></button>
+															<button type="reset" class="btn btn-warning" >Reset <span class="glyphicon glyphicon-remove"></span></button>
+														</div>
+													</div>
+
+												</fieldset>
+											</form>
+										</div>
+									</div>
 									<br>
 									<br>
 									<br><br>
