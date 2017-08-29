@@ -191,11 +191,15 @@ $pad: 10px;
 
 .bookingheader{
 	font-weight: normal;
-	font-size: 4em;
-	font-family: 'Raleway', sans-serif;
-	margin: 0 auto;
-	margin-top: 30px;
-	width: 500px;
-	color: #F90;
-	text-align: center;
+    font-size: 4em;
+    font-family: 'Raleway', sans-serif;
+    margin: 0 auto;
+    margin-top: -71px;
+    width: 500px;
+    color: #dcea1d;
+    /* text-align: left; */
+    margin-left: -81%;
+    padding-bottom: 70px;
+    background-color: rgba(0, 0, 0, 0.34);
+    height: 2px;
 }

@@ -216,3 +216,16 @@ div.bg{
     -o-transform:rotate(360deg);
     transform:rotate(360deg);         
 } 
+.flipped{
+    -webkit-transform:rotate(90deg);
+      -moz-transform:rotate(90deg);
+      -o-transform:rotate(90deg);
+      -ms-transform:rotate(90deg);
+}
+.flipped:hover  
+{
+    -webkit-transform:rotate(450deg);
+    -moz-transform:rotate(450deg);
+    -o-transform:rotate(450deg);
+    transform:rotate(450deg);         
+} 
