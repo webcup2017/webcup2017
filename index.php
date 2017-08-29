@@ -10,7 +10,7 @@
 	<script src="js/jquery.easing.min.js"></script>
 	<link rel="icon" href="assets/logo2.png" type="image/gif" sizes="32x32">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<link rel="stylesheet" type="text/css" href="css/booking.css">
+	
 	<link rel="stylesheet" type="text/css" href="css/info.css">
 	<link href='https://fonts.googleapis.com/css?family=Aladin' rel='stylesheet'>
 	<link rel="stylesheet" type="text/css" href="css/carousel.css">
@@ -334,14 +334,15 @@
 	  <!--  General -->
 	  <div class="form-group">
 	  <div class="row">
-	  <div class="col-md-4"></div>
-	    <div class="col-md-4">
-	    <h2 class="heading">Booking</h2>
+	  <div class="col-md-3"></div>
+	    <div class="col-md-6">
+	    <h2 class="bookingheader">Booking</h2>
 	    </div>
-	    <div class="col-md-4"></div>
+	    <div class="col-md-3"></div>
 	    </div>
 	    <div class="row">
-	<div class="col-md-4">
+	   
+	<div class="col-md-6">
 	    <div class="controls">
 	    <label for="name">Name</label><br>
 	      <input type="text" id="name" class="floatLabel" name="name">
@@ -364,8 +365,9 @@
 	          
 	          </div>
 	            <button type="submit" value="Submit" class="col-1-4">Submit</button>
-	      </div>  
-	      <div class="col-md-8">
+	      </div> 
+
+	      <div class="col-md-6">
 	      	<img src="img/dol.jpg">
 	      </div>
 	      </div>
