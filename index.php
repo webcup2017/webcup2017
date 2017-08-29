@@ -464,13 +464,10 @@
 										<div id="googleMap"></div>
 									</div>
 								
-									<br>
-									<br>
-									<br><br>
+
 									<div class="row">
-										<div class="col-md-3"></div>
-										<div class="col-md-8"><section id="links">
-											<p style="font-size: 30px;font-weight: bold; padding-left: 100px;">Find Us On...</p><br>
+										<div class="col-md-12"><section id="links">
+											<p class="newfindus">Find Us On...</p>
 
 
 											<!-- Add font awesome icons -->
