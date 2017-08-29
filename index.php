@@ -18,6 +18,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="css/contact.css">
+	<link rel="stylesheet" href="css/fishy.css">
 	<script src="http://s.codepen.io/assets/libs/modernizr.js" type="text/javascript"></script>
 
 	<link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
@@ -117,28 +118,28 @@
 				
 				<div class="col-md-4" style=" color:white; text-align: center">
 					<figure>
-						<img src="assets/images/fighter.jpg" alt="Portfolio Item">
+						<img src="assets/images/fighter.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">Fighter</h3>
-							<p>Life Span: 2 years.</p>
+							<p>Recognized by its bright colors.</p>
 						</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-4" style=" color:white">
 					<figure>
-						<img src="assets/images/angelfish.jpg" alt="Portfolio Item">
+						<img src="assets/images/angel.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">Angelfish</h3>
-							<p>Life Span: 4 years.</p>
+							<p>Recognized by its strips.</p>
 						</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-4" style="color:white">
 					<figure>
-						<img src="assets/images/ashark.jpg" alt="Portfolio Item">
+						<img src="assets/images/shark.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">Shark</h3>
-							<p>Life Span: 10 years.</p>
+							<p>Easily recognized.</p>
 						</figcaption>
 					</figure>
 				</div>
@@ -146,10 +147,10 @@
 			<div class="row">
 				<div class="col-md-4" style=" color:white">
 					<figure>
-						<img class="imgWhite" src="assets/images/goldfish.jpg" alt="Portfolio Item">
+						<img class="imgWhite" src="assets/images/goldfish.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">Gold Fish</h3>
-							<p>Life Span: 5 years.</p>
+							<p>The classic one.</p>
 						</figcaption>
 					</figure>
 				</div>
@@ -159,19 +160,19 @@
 				
 				<div class="col-md-4" style=" color:white">
 					<figure>
-						<img src="assets/images/koi.jpg" alt="Portfolio Item">
+						<img src="assets/images/koi.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">Koi</h3>
-							<p>Life Span: 20 years.</p>
+							<p>Likes to stay in group.</p>
 						</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-4" style=" color:white">
 					<figure>
-						<img class="imgWhite" src="assets/images/octopus.jpg" alt="Portfolio Item">
+						<img class="imgWhite" src="assets/images/octopus.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">Octopus</h3>
-							<p>Life Span: 20 years.</p>
+							<p>Recognized by its tentacles.</p>
 						</figcaption>
 					</figure>
 				</div>
@@ -179,35 +180,61 @@
 			<div class="row">
 				<div class="col-md-4" style=" color:white">
 					<figure>
-						<img src="assets/images/whiteshark.jpg" alt="Portfolio Item">
+						<img src="assets/images/whiteshark.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">White Shark</h3>
-							<p>Life Span: 15 years.</p>
+							<p>Can be found in the coastal surface waters.</p>
 						</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-4" style=" color:white">
 					<figure>
-						<img class="imgWhite" src="assets/images/angelFresh.jpg" alt="Portfolio Item">
+						<img class="imgWhite" src="assets/images/freshwaterangel.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">Freshwater Angelfish</h3>
-							<p>Life Span: 3 years.</p>
+							<p>Ver popular due to its shape.</p>
 						</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-4" style=" color:white">
 					<figure>
-						<img class="imgWhite" src="assets/images/balaShark.jpg" alt="Portfolio Item">
+						<img class="imgWhite" src="assets/images/balashark.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">Bala Shark</h3>
-							<p>Life Span: 7 years.</p>
+							<p>This species is not a true shark.</p>
 						</figcaption>
 					</figure>
 				</div>
 			</div><br>
-		</div>
-
-
+			<div class="row">
+				<div class="col-md-4" style=" color:white">
+					<figure>
+						<img src="assets/images/hammerhead.png" alt="Portfolio Item">
+						<figcaption>
+							<h3 style="color:white;">Hammerhead Shark</h3>
+							<p>Named for the unusual and distinctive structure of their heads.</p>
+						</figcaption>
+					</figure>
+				</div>
+				<div class="col-md-4" style=" color:white">
+					<figure>
+						<img class="imgWhite" src="assets/images/relicfish.png" alt="Portfolio Item">
+						<figcaption>
+							<h3 style="color:white;">Relic Fish</h3>
+							<p>What is it?</p>
+						</figcaption>
+					</figure>
+				</div>
+				<div class="col-md-4" style=" color:white">
+					<figure>
+						<img class="imgWhite" src="assets/images/transoctopus.png" alt="Portfolio Item">
+						<figcaption>
+							<h3 style="color:white;">Transparent Octopus</h3>
+							<p>???</p>
+						</figcaption>
+					</figure>
+				</div>
+			</div><br>
 
 	</section>
 
@@ -329,99 +356,36 @@
 							<div id="contact" class="container">
 								<h3 class="text-center">Contact</h3>
 								<div class="row">
-									<div class="col-md-4">
-										<div id="googleMap"></div>
-									</div>
-									<div class="col-md-8">
-										<div class="row">
-											<form class="well form-horizontal" action="index.php" method="post"  id="contact_form">
-												<fieldset>
+									<div id="form">
 
-													<!-- Form Name -->
+<div class="fish" id="fish"></div>
+<div class="fish" id="fish2"></div>
 
+<form id="waterform" method="post">
 
-													<!-- Text input-->
+<div class="formgroup" id="name-form">
+    <label for="name">Your name*</label>
+    <input type="text" id="name" name="name" required="name" autofocus />
+</div>
 
-													<div class="form-group">
-														<label class="col-md-4 control-label">First Name</label>  
-														<div class="col-md-4 inputGroupContainer">
-															<div class="input-group">
-																<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-																<input  name="first_name" placeholder="First Name" class="form-control"  type="text">
-															</div>
-														</div>
-													</div>
+<div class="formgroup" id="email-form">
+    <label for="email">Your e-mail*</label>
+    <input type="email" id="email" name="email" required="email" autofocus />
+</div>
 
-													<!-- Text input-->
+<div class="formgroup" id="message-form">
+    <label for="message">Your message</label>
+    <textarea id="message" name="message" required="message" autofocus></textarea>
+</div>
 
-													<div class="form-group">
-														<label class="col-md-4 control-label">Last Name</label> 
-														<div class="col-md-4 inputGroupContainer">
-															<div class="input-group">
-																<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-																<input name="last_name" placeholder="Last Name" class="form-control"  type="text">
-															</div>
-														</div>
-													</div>
-
-													<!-- Text input-->
-													<div class="form-group">
-														<label class="col-md-4 control-label">E-Mail</label>  
-														<div class="col-md-4 inputGroupContainer">
-															<div class="input-group">
-																<span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
-																<input name="email" placeholder="E-Mail Address" class="form-control"  type="text">
-															</div>
-														</div>
-													</div>
-
-
-													<!-- Text input-->
-
-													<div class="form-group">
-														<label class="col-md-4 control-label">Phone</label>  
-														<div class="col-md-4 inputGroupContainer">
-															<div class="input-group">
-																<span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
-																<input name="phone" placeholder="(+230)" class="form-control" type="text">
-															</div>
-														</div>
-													</div>
-
-													<!-- Text input-->
-													<label class="col-md-4 control-label">Comment</label>  
-													<div class="col-md-6 inputGroupContainer">
-														<div class="input-group">
-															<span class="input-group-addon"><i class="glyphicon glyphicon-comment"></i></span>
-															<textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea>
-														</div>
-													</div>
-
-
-
-
-
-
-													<!-- Text input-->
-
-
-
-													<!-- Success message -->
-													<div class="alert alert-success" role="alert" id="success_message">Success <i class="glyphicon glyphicon-thumbs-up"></i> Thanks for contacting us, we will get back to you shortly.</div>
-
-													<!-- Button -->
-													<div class="form-group">
-														<label class="col-md-4 control-label"></label>
-														<div class="col-md-4">
-															<button type="submit" class="btn btn-warning" >Send <span class="glyphicon glyphicon-send"></span></button>
-															<button type="reset" class="btn btn-warning" >Reset <span class="glyphicon glyphicon-remove"></span></button>
-														</div>
-													</div>
-
-												</fieldset>
-											</form>
-										</div>
-									</div>
+	<input type="submit" value="Send your message!" />
+</form>
+								</div>
+								<div class="row">
+									<div class="locationheader">Our Location</div>
+									<div id="googleMap"></div>							
+								</div>
+								<div class="row">
 									<br>
 									<br>
 									<br><br>
