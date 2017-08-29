@@ -38,7 +38,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand page-scroll" href="#header" style="color:white;font-weight: bold">AquaMagic</a>
+					<a class="navbar-brand page-scroll" href="#header" style="color:white;font-weight: bold">AquaAstek</a>
 				</div>
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
