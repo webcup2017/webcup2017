@@ -115,12 +115,13 @@ h2.heading{
 	}
 }
 
-button{
+.button1{
   cursor: pointer;
   background-color: $brand-color;
   border: none;
   color: #fff;
-  padding: 12px 0;
+margin-top: 15px;
+margin-right: 25px;
   float: right;
   &:hover{
     background-color: lighten($brand-color, 5%);
@@ -185,4 +186,16 @@ $pad: 10px;
 
 .col-1-8 {
 	width: 12.5%;
+}
+
+
+.bookingheader{
+	font-weight: normal;
+	font-size: 4em;
+	font-family: 'Raleway', sans-serif;
+	margin: 0 auto;
+	margin-top: 30px;
+	width: 500px;
+	color: #F90;
+	text-align: center;
 }
