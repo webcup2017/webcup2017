@@ -113,7 +113,7 @@
 
 
 	<section class="middle" id="middle">
-		<div class="container-fluid">
+		<div class="container-fluid bg">
 			<div class="row">
 				
 				
