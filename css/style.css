@@ -250,3 +250,7 @@ div.bg{
     -o-transform:rotate(450deg);
     transform:rotate(450deg);         
 } 
+
+.container-fluid{
+	padding-top: 15px;
+}
