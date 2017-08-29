@@ -82,7 +82,7 @@
 				<div class="col-md-3">
 					<div class="ima">
 
-						<img src="assets/logo2.png" alt="Logo" width="200" height="200">
+						<img src="assets/logo2.png" alt="Logo" width="200" height="200" class="bg_logo">
 					</div>
 				</div>
 
@@ -97,7 +97,7 @@
 					
 					<div class="ima">
 
-						<img src="assets/logo2.png" alt="Logo" width="200" height="200">
+						<img src="assets/logo2.png" alt="Logo" width="200" height="200" class="bg_logo">
 					</div>
 				</div>
 			</div>

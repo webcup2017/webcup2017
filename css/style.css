@@ -196,3 +196,8 @@ div.bg{
 .carousel-indicators{
 	margin-bottom: -1%;
 }
+
+.bg_logo{
+    background-color: rgba(245, 245, 220, 0.59);
+    border-radius: 100%;
+}
