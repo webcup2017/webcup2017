@@ -330,7 +330,7 @@
 
 						<section class="info">
 							
-							<div class="jumbotron" style="background-image: url(assets/WolfShark.jpg);">
+							<div class="jumbotron" style="background-image: url(assets/WolfShark1.jpg);">
 								<h1 style="color: white">Opening Hours & Entrance Fees</h1>      
 								<p style="color: white">
 									Monday-Friday:9hrs-17hrs
