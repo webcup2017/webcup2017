@@ -10,7 +10,6 @@
 	<script src="js/jquery.easing.min.js"></script>
 	<link rel="icon" href="assets/logo2.png" type="image/gif" sizes="32x32">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<link rel="stylesheet" type="text/css" href="css/booking.css">
 	<link rel="stylesheet" type="text/css" href="css/info.css">
 	<link href='https://fonts.googleapis.com/css?family=Aladin' rel='stylesheet'>
 	<link rel="stylesheet" type="text/css" href="css/carousel.css">
@@ -239,13 +238,10 @@
 
 	</section>
 
-	
+	<br>
 
 	<section class="middle1" id="middle1">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="bs-example">
+			
 						<div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 							<!-- Carousel indicators -->
 							<ol class="carousel-indicators">
@@ -316,8 +312,7 @@
 												</a>
 											</div>
 										</div>
-									</div>
-								</div>
+								
 
 								<br/>
 								<div class="row">
@@ -325,7 +320,7 @@
 									<div class="col-md-4"><a class="button1 button4 " href="virtualTour.php" style="color:white ;  font-family: 'Open Sans'; font-weight: bold; text-decoration:none;  " >Virtual Tour</a></div>
 									<div class="col-md-4"></div>
 								</div>
-							</div>
+						
 						</section>
 
 						
@@ -354,54 +349,6 @@
 
 
 						</section>
-
-	<section class="booking">
-	
-	<form action="">
-	  <!--  General -->
-	  <div class="form-group">
-	  <div class="row">
-	  <div class="col-md-4"></div>
-	    <div class="col-md-4">
-	    <h2 class="heading">Booking</h2>
-	    </div>
-	    <div class="col-md-4"></div>
-	    </div>
-	    <div class="row">
-	<div class="col-md-4">
-	    <div class="controls">
-	    <label for="name">Name</label><br>
-	      <input type="text" id="name" class="floatLabel" name="name">
-	      
-	    </div>
-	    <div class="controls">
-	    <label for="email">Email</label><br>
-	      <input type="text" id="email" class="floatLabel" name="email">
-	      
-	    </div>       
-	    <div class="controls">
-	    <label for="phone">Phone</label><br>
-	      <input type="tel" id="phone" class="floatLabel" name="phone">
-	      
-	    </div>
-	    <br>
-	        <div class="controls">
-	        <label for="comments">Comments</label><br>
-	          <textarea name="comments"  class="floatLabel" id="comments"></textarea>
-	          
-	          </div>
-	            <button type="submit" value="Submit" class="col-1-4">Submit</button>
-	      </div>  
-	      <div class="col-md-8">
-	      	<img src="img/dol.jpg">
-	      </div>
-	      </div>
-	      
-	  </div> 
-	</form>
-	</div>
-							
-	</section>
 
 
 						<footer class="footer">
@@ -479,7 +426,6 @@
 					<script src='http://cdnjs.cloudflare.com/ajax/libs/bootstrap-validator/0.4.5/js/bootstrapvalidator.min.js'></script>
 
 					<script src="js/contact_form.js"></script>
-					<script src="js/booking.js"></script>
 
 
 					<video autoplay loop id="video-background" muted>
