@@ -186,3 +186,13 @@ div.bg{
     text-align: center;
 }
 
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.55);
+    width: 100%;
+    margin-left: -20%;
+	margin-bottom: -2%;
+}
+
+.carousel-indicators{
+	margin-bottom: -1%;
+}
