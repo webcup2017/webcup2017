@@ -82,7 +82,7 @@
 				<div class="col-md-3">
 					<div class="ima">
 
-						<img src="assets/logo2.png" alt="Logo" width="200" height="200" class="bg_logo">
+						<img src="assets/logo2.png" alt="Logo" width="200" height="200" class="bg_logo1">
 					</div>
 				</div>
 
@@ -97,7 +97,7 @@
 					
 					<div class="ima">
 
-						<img src="assets/logo2.png" alt="Logo" width="200" height="200" class="bg_logo flipped">
+						<img src="assets/logo2.png" alt="Logo" width="200" height="200" class="bg_logo2 flipped">
 					</div>
 				</div>
 			</div>
@@ -486,7 +486,7 @@
 									<div class="col-md-2"></div>
 									<div class="col-md-8">
 										<br><hr><br>
-										&copy; All rights reserved. | Design: Nikhilesh-Koushal-Nooree | Astek Web Cup: AquaMagic
+										&copy; All rights reserved. | Design: GitGroup | Astek Training: AquaAstek
 
 									</div>
 									<div class="col-md-2"></div>
