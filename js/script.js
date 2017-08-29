@@ -19,3 +19,5 @@ $(function() {
         event.preventDefault();
     });
 });
+
+$('.carousel').carousel();
