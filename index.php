@@ -461,7 +461,7 @@
 						<footer class="footer">
 							<!-- Container (Contact Section) -->
 							<div id="contact" class="container">
-								<h3 class="fishh1">Map</h3>
+								<h3 class="fishh1">Our Location</h3>
 								<div class="row">
 									<div class="col-md-12">
 										<div id="googleMap"></div>
@@ -470,7 +470,7 @@
 
 									<div class="row">
 										<div class="col-md-12"><section id="links">
-											<p class="newfindus">Find Us On...</p>
+											<p class="newfindus">Find Us On</p>
 
 
 											<!-- Add font awesome icons -->

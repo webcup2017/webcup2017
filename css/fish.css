@@ -11,9 +11,10 @@
 	font-family: 'Raleway', sans-serif;
 	margin: 0 auto;
 	width: 500px;
-    color: rgba(0, 88, 255, 0.75);
+    color: lightblue;
 	font-weight: bolder;
     text-align: center;
+    margin-bottom: 40px;
 }
 
 /* Animation webkit */
@@ -57,9 +58,6 @@
 }
 
 
-header{
-	height: 160px;
-}
 
 #formfish{
 	height: 100%;	
@@ -159,7 +157,7 @@ label{
 
 .newfindus{
 	padding-top: 50px;
-	font-size: x-large;
+	font-size: 40px;
 	color: #00ccff;
 	text-align: center;
 }
