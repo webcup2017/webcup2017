@@ -196,7 +196,7 @@
 						<img class="imgWhite" src="assets/images/freshwaterangel.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">FW Angelfish</h3>
-							<p>Ver popular due to its shape.</p>
+							<p>Very popular due to its shape.</p>
 						</figcaption>
 					</figure>
 				</div>
@@ -225,7 +225,7 @@
 						<img class="imgWhite" src="assets/images/relicfish.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">Relic Fish</h3>
-							<p>What is it?</p>
+							<p>They are like constantly breaking piñatas.</p>
 						</figcaption>
 					</figure>
 				</div>
@@ -234,7 +234,7 @@
 						<img class="imgWhite" src="assets/images/transoctopus.png" alt="Portfolio Item">
 						<figcaption>
 							<h3 style="color:white;">T. Octopus</h3>
-							<p>???</p>
+							<p>One among the various types of octopus.</p>
 						</figcaption>
 					</figure>
 				</div>
