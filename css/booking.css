@@ -194,12 +194,7 @@ $pad: 10px;
     font-size: 4em;
     font-family: 'Raleway', sans-serif;
     margin: 0 auto;
-    margin-top: -71px;
+    margin-top: 10px;
     width: 500px;
-    color: #dcea1d;
-    /* text-align: left; */
-    margin-left: -81%;
-    padding-bottom: 70px;
-    background-color: rgba(0, 0, 0, 0.34);
-    height: 2px;
+    color: #99ccff;
 }
