@@ -100,7 +100,7 @@ div.bg{
 
 
 .buttonvt {
-    background-color: green; /* Green */
+    background-color: lime;
     border-radius: 5px;
     color: white;
     padding: 0.05px 60px;
@@ -108,9 +108,8 @@ div.bg{
     text-decoration: none;
     display: flex;
     font-size: 25px;
-    margin: 0px 20px;
+    margin: 0px 145px;
     cursor: pointer;
-    
     float: left;
 
 }
@@ -197,7 +196,7 @@ div.bg{
 	margin-bottom: -1%;
 }
 
-.bg_logo{
+.bg_logo1{
     background-color: rgba(245, 245, 220, 0.59);
     border-radius: 100%;
     -webkit-transition-duration: 0.8s;
@@ -210,10 +209,48 @@ div.bg{
     transition-property: transform;    
     overflow:hidden;
 }
-.bg_logo:hover  
+.bg_logo1:hover  
+{
+    -webkit-transform:rotate(-360deg);
+    -moz-transform:rotate(-360deg);
+    -o-transform:rotate(-360deg);
+    transform:rotate(-360deg);         
+} 
+
+.bg_logo2{
+    background-color: rgba(245, 245, 220, 0.59);
+    border-radius: 100%;
+    -webkit-transition-duration: 0.8s;
+    -moz-transition-duration: 0.8s;
+    -o-transition-duration: 0.8s;
+    transition-duration: 0.8s;   
+    -webkit-transition-property: -webkit-transform;
+    -moz-transition-property: -moz-transform;
+    -o-transition-property: -o-transform;
+    transition-property: transform;    
+    overflow:hidden;
+}
+.bg_logo2:hover  
 {
     -webkit-transform:rotate(360deg);
     -moz-transform:rotate(360deg);
     -o-transform:rotate(360deg);
     transform:rotate(360deg);         
 } 
+.flipped{
+    -webkit-transform:rotate(90deg);
+      -moz-transform:rotate(90deg);
+      -o-transform:rotate(90deg);
+      -ms-transform:rotate(90deg);
+}
+.flipped:hover  
+{
+    -webkit-transform:rotate(450deg);
+    -moz-transform:rotate(450deg);
+    -o-transform:rotate(450deg);
+    transform:rotate(450deg);         
+} 
+
+.container-fluid{
+	padding-top: 15px;
+}

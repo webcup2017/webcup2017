@@ -82,7 +82,7 @@
 				<div class="col-md-3">
 					<div class="ima">
 
-						<img src="assets/logo2.png" alt="Logo" width="200" height="200" class="bg_logo">
+						<img src="assets/logo2.png" alt="Logo" width="200" height="200" class="bg_logo1">
 					</div>
 				</div>
 
@@ -97,7 +97,7 @@
 					
 					<div class="ima">
 
-						<img src="assets/logo2.png" alt="Logo" width="200" height="200" class="bg_logo">
+						<img src="assets/logo2.png" alt="Logo" width="200" height="200" class="bg_logo2 flipped">
 					</div>
 				</div>
 			</div>
@@ -319,7 +319,7 @@
 								<br/>
 								<div class="row">
 									<div class="col-md-4"></div>
-									<div class="col-md-4"><a class="buttonvt button4 " href="virtualTour.php" style="color:white ;  font-family: 'Open Sans'; font-weight: bold; text-decoration:none;margin-top: -15%;" >Virtual Tour</a></div>
+									<div class="col-md-4"><a class="buttonvt button4 " href="virtualTour.php" style="color:rgb(255, 0, 233) ;  font-family: 'Open Sans'; font-weight: bold; text-decoration:none;margin-top: -20%;" >Virtual Tour</a></div>
 									<div class="col-md-4"></div>
 								</div>
 						
@@ -464,13 +464,10 @@
 										<div id="googleMap"></div>
 									</div>
 								
-									<br>
-									<br>
-									<br><br>
+
 									<div class="row">
-										<div class="col-md-3"></div>
-										<div class="col-md-8"><section id="links">
-											<p style="font-size: 30px;font-weight: bold; padding-left: 100px;">Find Us On...</p><br>
+										<div class="col-md-12"><section id="links">
+											<p class="newfindus">Find Us On...</p>
 
 
 											<!-- Add font awesome icons -->
@@ -489,7 +486,7 @@
 									<div class="col-md-2"></div>
 									<div class="col-md-8">
 										<br><hr><br>
-										&copy; All rights reserved. | Design: Nikhilesh-Koushal-Nooree | Astek Web Cup: AquaMagic
+										&copy; All rights reserved. | Design: GitGroup | Astek Training: AquaAstek
 
 									</div>
 									<div class="col-md-2"></div>
