@@ -57,7 +57,9 @@
 						<li>
 							<a class="page-scroll" href="#middle1" style="color:white ; font-weight: bold">Tour</a>
 						</li>
-						
+						<li>
+							<a class="page-scroll" href="#booking" style="color:white; font-weight: bold">Booking</a>
+						</li>
 						<li>
 							<a class="page-scroll" href="#contact" style="color:white ; font-weight: bold">Contact</a>
 						</li>
