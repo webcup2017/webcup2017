@@ -62,8 +62,8 @@ div.bg{
 }
 
 .aboutTitle{
-    font-size: 30px;
-    color: white;
+    font-size: 40px;
+    color: lightcyan;
     font-family: 'Open Sans';
 }
 .aboutText{
@@ -104,7 +104,7 @@ div.bg{
     color: white;
     padding: 15px 15px 15px 15px;
     text-align: center;
-    text-decoration: underline;
+    text-decoration: none;
     display: flex;
     font-size: xx-large;
     margin: 10px 10px 100px 145px;
