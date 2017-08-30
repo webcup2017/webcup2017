@@ -322,7 +322,7 @@
 								<br/>
 								<div class="row">
 									<div class="col-md-4"></div>
-									<div class="col-md-4"><a class="buttonvt button4 " href="virtualTour.php" style="color:rgb(255, 0, 233) ;  font-family: 'Open Sans'; font-weight: bold; text-decoration:none;margin-top: -20%;" >Virtual Tour</a></div>
+									<div class="col-md-4"><a class="buttonvt button4 " href="virtualTour.php">Virtual Tour</a></div>
 									<div class="col-md-4"></div>
 								</div>
 						
