@@ -408,7 +408,7 @@
 	      </div> 
 
 	      <div class="col-md-6" style="padding-top: 40px;">
-	      	<img src="img/dol.jpg">
+	      	<img src="img/dol.png">
 	      </div>
 	      </div>
 	      
