@@ -104,7 +104,7 @@
 			<div class="row">
 				<div class="col-md-4"></div>
 				<div class="col-md-4">
-					<a class="button button4 page-scroll" href="#middle" style="color:white ;  font-family: 'Open Sans'; font-weight: bold; text-decoration:none" >Gallery</a>
+					<a class="button button4 page-scroll" href="#middle" style="color:white ;  font-family: 'Open Sans'; font-weight: bold; text-decoration:underline;" >Gallery</a>
 				</div>
 				<div class="col-md-4"></div>
 			</div>
