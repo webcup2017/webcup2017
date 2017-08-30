@@ -91,7 +91,7 @@
 
 				
 				<div class="col-md-6">
-					<p class="aboutText" style="background-color: black; opacity: 0.5; padding:20px; border-radius: 5px;">This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.This is the new about text.
+					<p class="aboutText" style="background-color: black; opacity: 0.5; padding:20px; border-radius: 5px;">Hello this is new text.
 					</p>
 				</div>
 
