@@ -322,7 +322,7 @@
 								<br/>
 								<div class="row">
 									<div class="col-md-4"></div>
-									<div class="col-md-4"><a class="buttonvt button4 " href="virtualTour.php">Virtual Tour</a></div>
+									<div class="col-md-4"><a class="buttonvt button4" style="text-decoration:none;" href="virtualTour.php">Virtual Tour</a></div>
 									<div class="col-md-4"></div>
 								</div>
 						

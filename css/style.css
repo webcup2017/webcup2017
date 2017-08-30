@@ -112,6 +112,9 @@ div.bg{
     float: left;
 
 }
+.buttonvt a : hover {
+    text-decoration: none;
+}
 /*#pfImage{
     padding: 30px;
     position: relative;
