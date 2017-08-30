@@ -368,7 +368,7 @@
 						</section>
 
 
-	<section class="booking">
+	<section class="booking"  id="booking">
 	
 	<form action="">
 	  <!--  General -->
